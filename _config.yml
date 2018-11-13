@@ -1,2 +1,30 @@
-theme: jekyll-theme-cayman
-title: Moving Down Under
+name: Moving Down Under
+author: Moving Down Under
+baseurl: /movingdownunder
+description: Information to help people settle into Australia
+github: http://www.github.com/movingdownunder
+twitter: http://www.twitter.com/
+facebook: http://www.facebook.com
+linkedin: http://www.linkedin.com
+email: moving-down-under[at]outlook.com
+location: 42°2'16"N   70°12'47"W
+disqus: diqus-username
+
+##Make sure to edit the above fields, especially for disqus.
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ['tables']
+
+defaults:
+  - scope:
+      path: ''
+      type: 'pages'
+    values:
+      layout: 'default'
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: 'post'
