@@ -136,7 +136,7 @@ p {
 }
 
 .sidebar-nav > .sidebar-brand {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .sidebar-nav > .sidebar-brand > h3 {
@@ -156,7 +156,7 @@ p {
   font-weight: 800;
   color: #6c7077;
   font-family: 'Helvetica Neue', helvetica, 'Open Sans', sans-serif;
-  font-size: 1.4em;
+  font-size: 1.1em;
   text-shadow: 1px 1px #fff;
 }
 
