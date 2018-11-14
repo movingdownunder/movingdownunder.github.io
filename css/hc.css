@@ -160,6 +160,11 @@ p {
   text-shadow: 1px 1px #fff;
 }
 
+.brand > img {
+  width: 150px;
+  height: 150px;
+}
+
 .brand:hover {
   color: #d90006;
   -o-transition: 0.5s;
