@@ -1,6 +1,6 @@
 name: Moving Down Under
 author: Moving Down Under
-baseurl: /
+baseurl:
 description:
 image: /images/Australia-transparent.png
 github: http://www.github.com/movingdownunder
