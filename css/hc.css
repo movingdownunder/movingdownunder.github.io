@@ -2,7 +2,7 @@
 
 body {
   color: #2c3e50;
-  background-color: #f0f0f0;
+  background-color: hsl(0, 0%, 94%);
   width: 100%;
   border-top: solid #d90006;
   border-width: 4px;
@@ -14,8 +14,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Helvetica Neue', helvetica, 'Open Sans', sans-serif;
-  color: #d90006;
+  font-family: 'Noto Sans', sans-serif;
+  color: #6d7680;
 }
 
 h1 {
@@ -43,7 +43,7 @@ h4 a:hover {
 }
 
 p {
-  font-family: 'Helvetica Neue', helvetica, 'Open Sans', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-weight: 200;
 }
 
@@ -111,7 +111,7 @@ p {
 .sidebar-nav li {
   line-height: 30px;
   text-indent: 40px;
-  font-family: 'Helvetica Neue', helvetica, 'Open Sans', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-weight: 200;
   color: #9c9c9c;
   text-shadow: 1px 1px #fff;
@@ -156,7 +156,7 @@ p {
 .brand {
   font-weight: 800;
   color: #6c7077;
-  font-family: 'Helvetica Neue', helvetica, 'Open Sans', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 1.1em;
   text-shadow: 1px 1px #fff;
 }
@@ -678,4 +678,11 @@ time {
   }
 }
 
-/* ############################################################### */
+.banner {
+  max-height: 5%;
+}
+
+img[src$='center'] {
+  display: block;
+  margin: 50px auto;
+}
