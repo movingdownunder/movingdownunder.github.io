@@ -4,7 +4,7 @@ title: Accommodation
 
 # Accommodation We recommend trialling a variety of suburbs before locking
 
-yourself into a rental agreement. [AirBnB](https://www.airbnb.com.au) is a
+yourself into a rental agreement. [AirBnB](https://www.airbnb.com.au){:target="\_blank"} is a
 popular option as it's economical and you can trial a few places quickly. For
 your first week, we recommend making things as easy as possible and choosing a
 location close to the office. Once you start with us you can chat to the team
