@@ -22,3 +22,5 @@ if you have a family, come alone at first and rent shared rooms to save money
 and once you decide where your family will settle you can rent a property. The
 money saved from initial months will help pay all the upfront costs involved in
 renting a property.
+
+![Accommodation](/images/accommodation.png?style=center 'Accommodation')
