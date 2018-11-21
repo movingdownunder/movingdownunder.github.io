@@ -27,7 +27,12 @@ renting a property.
 
 ## Finding a Rental Property
 
+In general, living in CBD (Central Business District) areas are expensive; High rental and less space. Consider surrounding suburbs but try to be as close to public transport as possible (especially train stations).
+
 Inspections are a great way to ensure you're choosing a property that suits your needs. They’re often scheduled during work hours which can be difficult, but not impossible. Create your property shortlist & work with your employer to agree on how to best manage. Of course, if you have a partner or a friend who can help that may be an easier option. You'll need to be super organised as inspection times are around 15 minutes so if you're late you’ll miss it. During your inspection, be sure to take note of damage to the property, neighbours & rodents.
+
+You’ll be asked to pay a bond before your rent any place. The bond is payable to "Residential Tenancies Bond Authority (RTBA)". This is done by issuing money order payable to this Authority from AusPost or by cheque from your bank account. You don’t need to have a chequing account for this and can simply go to your bank and ask them to issue a check from your current account payable to RTBA.
+You give this money order or cheque to the Agent.
 
 ## Signing Leases
 
