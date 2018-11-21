@@ -14,3 +14,5 @@ That, in turn, leads to your obligation to do the same. Contribute to this infor
 heading to the [GitHub repository](https://github.com/movingdownunder){:target="\_blank"} and making changes.
 
 Enjoy your new life in Australia. Become a productive member of society and help make everyone's life better!
+
+![Smiley](/images/smiley.png?style=center 'Smiley')
