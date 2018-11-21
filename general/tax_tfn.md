@@ -21,4 +21,6 @@ want to prepare your TFN application as early as possible so that it's ready in 
 visa is a class 482 you'll be able to apply whilst you’re abroad. If not, you'll need to wait until you arrive, but do make it one of the first things you do so there are no delays with your first
 pay. You can register [here](https://www.ato.gov.au/Individuals/Tax-file-number/Apply-for-a-TFN/Foreign-passport-holders,-permanent-migrants-and-temporary-visitors---TFN-application/){:target="\_blank"}.
 
+Once you've got a TFN, update your bank details with this number.
+
 ![ATO](/images/ato.png?style=center 'ATO')
