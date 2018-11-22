@@ -4,7 +4,7 @@ title: Sydney Transportation
 
 # Public Transport
 
-Get an Opal card, most convenience stores will sell you one. Once purchased, register it and check [the website](https://www.opal.com.au/)(:target="\_blank") for how to use it and how you can save on travels by planning your trips wisely.
+Get an Opal card, most convenience stores will sell you one. Once purchased, register it and check [the website](https://www.opal.com.au/){:target="\_blank"} for how to use it and how you can save on travels by planning your trips wisely.
 
 You can also order opal card online and get it delivered to an address in Sydney - if you have already found a place before coming to Sydney. In this instance, your card should be pre-activated.
 
