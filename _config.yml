@@ -12,11 +12,14 @@ location: 42°2'16"N   70°12'47"W
 disqus: diqus-username
 ga-trackingid: UA-129671855-1
 
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
 ##Make sure to edit the above fields, especially for disqus.
 
 highlighter: rouge
-plugins:
-  - jekyll-sitemap
 
 defaults:
   - scope:
@@ -29,3 +32,6 @@ defaults:
       type: 'posts'
     values:
       layout: 'post'
+
+plugins:
+  - jekyll-sitemap
