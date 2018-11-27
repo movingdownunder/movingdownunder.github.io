@@ -1,5 +1,6 @@
 ---
 title: Superannuation
+description: Information about superannuation and how it works as well as how to compare superannuation options
 ---
 
 # Superannuation

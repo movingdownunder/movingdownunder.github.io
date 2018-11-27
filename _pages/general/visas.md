@@ -1,5 +1,6 @@
 ---
 title: Visas
+description: How to obtain a visa, useful resources and FAQ's relating to visas
 ---
 
 # Visas

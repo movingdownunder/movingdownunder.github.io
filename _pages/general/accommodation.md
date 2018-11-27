@@ -1,5 +1,6 @@
 ---
 title: Accommodation
+description: Information about finding accomodation including signing contracts for rentals in Australia, what documents are requried and where to buy appliances
 ---
 
 # Accommodation

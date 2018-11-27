@@ -1,5 +1,6 @@
 ---
 title: Tax File Number
+description: Understanding if you're a resident for tax purposes and useful resources to understand how tax works and obtaining a TFN (Tax File Number)
 ---
 
 # Income Tax

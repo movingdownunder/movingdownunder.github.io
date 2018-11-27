@@ -1,5 +1,6 @@
 ---
 title: Laptops
+description: How to buy a laptop and where to buy one
 ---
 
 # Laptops

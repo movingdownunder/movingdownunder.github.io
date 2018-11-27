@@ -1,5 +1,6 @@
 ---
 title: Bank Accounts
+description: How to open bank accounts and details about popular banks
 ---
 
 # Bank Account
