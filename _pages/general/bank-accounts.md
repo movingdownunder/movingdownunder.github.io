@@ -18,5 +18,6 @@ you can collect your bank cards which will be ready for you.
 - [NAB](https://www.nab.com.au/){:target="\_blank"}
 - [ING Direct](https://www.ingdirect.com.au/){:target="\_blank"}
 - [Citibank](https://www.citibank.com.au/){:target="\_blank"}
+- [Bank of Queensland](https://www.boq.com.au/){:target="\_blank"}
 
 ![Money](/images/money.png?style=center 'Money')
