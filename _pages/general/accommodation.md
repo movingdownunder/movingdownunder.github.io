@@ -9,13 +9,12 @@ We recommend trialling a variety of suburbs before locking yourself into a renta
 popular option as it's economical and you can trial a few places quickly. For
 your first week, we recommend making things as easy as possible and choosing a
 location close to the office. Once you start with us you can chat to the team
-about where to try next. There's also another great site to try:
-<http://www.cityhobo.com/shoe-index/shoe-index>.
+about where to try next. There's also another great site to try called [Flatmates](https://flatmates.com.au/){:target="\_blank"}.
 
 If you're coming to Australia with your family, you may prefer to book a serviced apartment. These can be
 expensive but if you go a bit further out of the city you'll find it's much more
 economical. However, be sure to stay close to a train line or an easy bus route.
-You can try booking.com or uniqueshortstays.com.au to see what's available. If
+You can try [Booking.com](booking.com){:target="\_blank"} or [Unique Short Stays](uniqueshortstays.com.au){:target="\_blank"} to see what's available. If
 you were thinking of trying to get ahead and liaising with real estate agents
 whilst you're abroad, you may not have much luck as properties are in high
 demand and agents are generally not open to the idea. Your best option is either
@@ -34,6 +33,8 @@ Inspections are a great way to ensure you're choosing a property that suits your
 
 You’ll be asked to pay a bond before your rent any place. The bond is payable to "Residential Tenancies Bond Authority (RTBA)". This is done by issuing money order payable to this Authority from AusPost or by cheque from your bank account. You don’t need to have a chequing account for this and can simply go to your bank and ask them to issue a check from your current account payable to RTBA.
 You give this money order or cheque to the Agent.
+
+The main two sites to look find properties for lease are the [Real Estate](https://realestate.com.au){:target="\_blank"} and [Domain](https://www.domain.com.au/){:target="\_blank"}
 
 ## Signing Leases
 
