@@ -1,3 +1,4 @@
+<!-- Mobile Nav-->
 <div class="navbar navbar-default" role="navigation">
   <div class="container">
     <div class="navbar-header">
@@ -15,15 +16,70 @@
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li><a href="{{ site.baseurl }}/list.html">List</a></li>
-        <li><a href="{{ site.baseurl }}/links.html">Links</a></li>
-        <li><a href="{{ site.baseurl }}/projects.html">Projects</a></li>
-        <li><a href="{{ site.baseurl }}/about.html">About</a></li>
+        <li data-target="#general">
+          <a href="#">General Info
+            <!-- <span class="arrow"></span>
+              --></a>
+        </li>
+        <ul id="general" class="sub-menu collapse in">
+          <li><a href="{{ site.baseurl }}/general/visas.html">Visas</a></li>
+          <li>
+            <a href="{{ site.baseurl }}/general/bank-accounts.html">Bank Accounts</a>
+          </li>
+          <li><a href="{{ site.baseurl }}/general/tax_tfn.html">Tax & TFN</a></li>
+          <li>
+            <a href="{{ site.baseurl }}/general/superannuation.html">Superannuation</a>
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/general/accommodation.html">Accomodation</a>
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/general/schools-daycare.html">Schools/Daycare</a>
+          </li>
+          <li><a href="{{ site.baseurl }}/general/laptops.html">Laptops</a></li>
+          <li><a href="{{ site.baseurl }}/general/medicare.html">Medicare</a></li>
+          <li><a href="{{ site.baseurl }}/general/sport.html">Sport</a></li>
+        </ul>
+        
+        <li data-target="#melbourne"><a href="#">Melbourne </a></li>
+        <ul id="melbourne" class="sub-menu collapse in">
+          <li>
+            <a href="{{ site.baseurl }}/melbourne/getting_around/transportation.html">Getting Around</a>
+          </li>
+        </ul>
+        
+        <li data-target="#sydney"><a href="#">Sydney</a></li>
+        <ul id="sydney" class="sub-menu collapse in">
+          <li>
+            <a href="{{ site.baseurl }}/sydney/getting_around/transportation.html">Getting Around</a>
+          </li>
+        </ul>
+        
+        <li data-target="#brisbane"><a href="#">Brisbane</a></li>
+        <ul id="brisbane" class="sub-menu collapse in">
+          <li>
+            <a href="{{ site.baseurl }}/brisbane/getting_around/transportation.html">Getting Around</a>
+          </li>
+        </ul>
+        
+        <li data-target="#perth"><a href="#">Perth</a></li>
+        <ul id="perth" class="sub-menu collapse in">
+          <li>
+            <a href="{{ site.baseurl }}/perth/getting_around/transportation.html">Getting Around</a>
+          </li>
+        </ul>
+        
+        <hr />
+        <div id="social-wrapper">
+          
+        </div>
+        </ul>
       </ul>
     </div>
     <!-- /.nav-collapse -->
   </div>
 </div>
+<!-- End Mobile Nav-->
 
 <!-- Sidebar -->
 <div id="sidebar-wrapper">
