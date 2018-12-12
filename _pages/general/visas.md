@@ -15,13 +15,13 @@ information on 482 visas.
 
 **Skilled Independent (Subclass 189)**
 
-If you are a qualified professional or trades person with work experience that will benefit the Australian economy, and your occupation is on Medium and Long-term Strategic Skills List (MLTSSL), this visa is for you.
+If you are a qualified professional or trades person with work experience that will benefit the Australian economy, and your occupation is on Medium and Long-term [Strategic Skills List (MLTSSL)](https://archive.homeaffairs.gov.au/trav/work/work/skills-assessment-and-assessing-authorities/skilled-occupations-lists/combined-stsol-mltssl){:target="\_blank"}, this visa is for you.
 
 In addition to meeting the basic requirements mentioned above, you are also required to pass a points test with points being awarded for age, English language ability, specific work experience, qualification, spouse skills, Australian skilled work experience, Australian qualifications and fluency in one of Australia's major community languages.
 
 The current passmark for this particular visa category is 60 points however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than 60 points in order to receive an invitation to apply for this visa.
 
-To be able to apply for this visa you need to submit an expression of interest and then be invited through SkillSelect to apply.
+To be able to apply for this visa you need to submit an expression of interest and then be invited through [SkillSelect](https://skillselect.gov.au){:target="\_blank"} to apply.
 
 This is a permanent residence visa. It lets you and any member of your family unit who has also been granted this visa:
 
@@ -34,13 +34,13 @@ This is a permanent residence visa. It lets you and any member of your family un
 
 **Skilled Nominated (Subclass 190)**
 
-If you are a qualified professional or trades person with work experience that will benefit the Australian economy, and your occupation is NOT on the Medium and Long-term Strategic Skills List (MLTSSL), but is on the Short-term Skilled Occupation List (STSOL) as well as being on one of the State/Territory Migration Plans (STMPs), then you may be eligible for this visa.
+If you are a qualified professional or trades person with work experience that will benefit the Australian economy, and your occupation is NOT on the [Medium and Long-term Strategic Skills List (MLTSSL), but is on the Short-term Skilled Occupation List (STSOL)](https://archive.homeaffairs.gov.au/trav/work/work/skills-assessment-and-assessing-authorities/skilled-occupations-lists/combined-stsol-mltssl){:target="\_blank"} as well as being on one of the State/Territory Migration Plans (STMPs), then you may be eligible for this visa.
 
 In addition to meeting the basic requirements mentioned above, you are also required to pass a points test with points being awarded for age, English language ability, specific work experience, qualification, spouse skills, Australian skilled work experience, Australian qualifications, fluency in one of Australia's major community languages and State nomination.
 
 The current passmark for this particular visa category is 60 points however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than 60 points in order to receive an invitation to apply for this visa.
 
-To be able to apply for this visa you need to submit an expression of interest and then be invited through SkillSelect to apply. You will only receive an invitation through SkillSelect on this visa program once you have been nominated by a State/Territory government.
+To be able to apply for this visa you need to submit an expression of interest and then be invited through [SkillSelect](https://skillselect.gov.au){:target="\_blank"} to apply. You will only receive an invitation through [SkillSelect](https://skillselect.gov.au){:target="\_blank"} on this visa program once you have been nominated by a State/Territory government.
 
 If you accept a nomination, the states and territories might require you to:
 
@@ -74,7 +74,7 @@ If you accept a nomination, the states and territories might require you to
 
 The current passmark for this particular visa category is 60 points however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than 60 points in order to receive an invitation to apply for this visa.
 
-To be able to apply for this visa you need to submit an expression of interest and then be invited through SkillSelect to apply. You will only receive an invitation through SkillSelect on this visa program once you have been nominated by a State/Territory government.
+To be able to apply for this visa you need to submit an expression of interest and then be invited through [SkillSelect](https://skillselect.gov.au){:target="\_blank"} to apply. You will only receive an invitation through [SkillSelect](https://skillselect.gov.au){:target="\_blank"} on this visa program once you have been nominated by a State/Territory government.
 
 This visa allows you and your family to
 
