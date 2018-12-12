@@ -17,7 +17,7 @@ information on 482 visas.
 
 If you are a qualified professional or trades person with work experience that will benefit the Australian economy, and your occupation is on Medium and Long-term [Strategic Skills List (MLTSSL)](https://archive.homeaffairs.gov.au/trav/work/work/skills-assessment-and-assessing-authorities/skilled-occupations-lists/combined-stsol-mltssl){:target="\_blank"}, this visa is for you.
 
-In addition to meeting the basic requirements mentioned above, you are also required to pass a points test with points being awarded for age, English language ability, specific work experience, qualification, spouse skills, Australian skilled work experience, Australian qualifications and fluency in one of Australia's major community languages.
+In addition to meeting the basic requirements mentioned above, you are also required to pass a [points](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator){:target="\_blank"} test with points being awarded for age, English language ability, specific work experience, qualification, spouse skills, Australian skilled work experience, Australian qualifications and fluency in one of Australia's major community languages.
 
 The current passmark for this particular visa category is 60 points however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than 60 points in order to receive an invitation to apply for this visa.
 
@@ -36,7 +36,7 @@ This is a permanent residence visa. It lets you and any member of your family un
 
 If you are a qualified professional or trades person with work experience that will benefit the Australian economy, and your occupation is NOT on the [Medium and Long-term Strategic Skills List (MLTSSL), but is on the Short-term Skilled Occupation List (STSOL)](https://archive.homeaffairs.gov.au/trav/work/work/skills-assessment-and-assessing-authorities/skilled-occupations-lists/combined-stsol-mltssl){:target="\_blank"} as well as being on one of the State/Territory Migration Plans (STMPs), then you may be eligible for this visa.
 
-In addition to meeting the basic requirements mentioned above, you are also required to pass a points test with points being awarded for age, English language ability, specific work experience, qualification, spouse skills, Australian skilled work experience, Australian qualifications, fluency in one of Australia's major community languages and State nomination.
+In addition to meeting the basic requirements mentioned above, you are also required to pass a [points](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator){:target="\_blank"} test with points being awarded for age, English language ability, specific work experience, qualification, spouse skills, Australian skilled work experience, Australian qualifications, fluency in one of Australia's major community languages and State nomination.
 
 The current passmark for this particular visa category is 60 points however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than 60 points in order to receive an invitation to apply for this visa.
 
@@ -63,7 +63,7 @@ This is a permanent residence visa. It lets you and any member of your family un
 
 Unlike the two visas mentioned, this is a temporary residency visa which leads to permanent residency at a later stage.
 
-In order to qualify for this visa you will need to meet the basic criteria and achieve the necessary points on the points test. However, under this particular visa category extra points are awarded if you are sponsored by a close relative or nominated by a State/ Territory government agency. The proviso for family sponsorship under this visa category is that your relative usually resides in a designated area of Australia.
+In order to qualify for this visa you will need to meet the basic criteria and achieve the necessary [points on the points test](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator){:target="\_blank"}. However, under this particular visa category extra points are awarded if you are sponsored by a close relative or nominated by a State/ Territory government agency. The proviso for family sponsorship under this visa category is that your relative usually resides in a designated area of Australia.
 
 If you accept a nomination, the states and territories might require you to
 
