@@ -5,7 +5,7 @@ description: How to obtain a visa, useful resources and FAQ's relating to visas
 
 # Visas
 
-If you require a working visa, you'll need to ensure you satisfy the requirements set out by the Australian immigration department before you commence a recruitment process. Click [here](https://www.homeaffairs.gov.au/trav/visa-1/482-){:target="\_blank"} to find the most current information relating to the 482 visa.
+If you require a working visa, you'll need to ensure you satisfy the requirements set out by the Australian Department of Home Affairs before you commence a recruitment process. Click [here](https://www.homeaffairs.gov.au/trav/visa-1/482-){:target="\_blank"} to find the most current information relating to the 482 visa.
 Once your visa is approved, you can get started setting up things you'll need for life in Australia. For more
 information on 482 visas.
 
