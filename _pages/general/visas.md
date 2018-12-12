@@ -19,7 +19,7 @@ If you are a qualified professional or trades person with work experience that w
 
 In addition to meeting the basic requirements mentioned above, you are also required to pass a [points](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator){:target="\_blank"} test with points being awarded for age, English language ability, specific work experience, qualification, spouse skills, Australian skilled work experience, Australian qualifications and fluency in one of Australia's major community languages.
 
-The current passmark for this particular visa category is 60 points however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than 60 points in order to receive an invitation to apply for this visa.
+The current number of points required for this visa category can be found [here](https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/invitation-rounds){:target="\_blank"} however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than the specified number of points in order to receive an invitation to apply for this visa.
 
 To be able to apply for this visa you need to submit an expression of interest and then be invited through [SkillSelect](https://skillselect.gov.au){:target="\_blank"} to apply.
 
@@ -38,7 +38,7 @@ If you are a qualified professional or trades person with work experience that w
 
 In addition to meeting the basic requirements mentioned above, you are also required to pass a [points](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator){:target="\_blank"} test with points being awarded for age, English language ability, specific work experience, qualification, spouse skills, Australian skilled work experience, Australian qualifications, fluency in one of Australia's major community languages and State nomination.
 
-The current passmark for this particular visa category is 60 points however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than 60 points in order to receive an invitation to apply for this visa.
+The current number of points required for this visa category can be found [here](https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/invitation-rounds){:target="\_blank"} however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than the specified number of points in order to receive an invitation to apply for this visa.
 
 To be able to apply for this visa you need to submit an expression of interest and then be invited through [SkillSelect](https://skillselect.gov.au){:target="\_blank"} to apply. You will only receive an invitation through [SkillSelect](https://skillselect.gov.au){:target="\_blank"} on this visa program once you have been nominated by a State/Territory government.
 
@@ -72,7 +72,7 @@ If you accept a nomination, the states and territories might require you to
 - meet any of their other requirements.
   Each state or territory government agency has its own process for nominating expressions of interest
 
-The current passmark for this particular visa category is 60 points however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than 60 points in order to receive an invitation to apply for this visa.
+The current number of points required for this visa category can be found [here](https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/invitation-rounds){:target="\_blank"} however, because of ceilings imposed on certain occupations, you may in fact be required to obtain more than the specified number of points in order to receive an invitation to apply for this visa.
 
 To be able to apply for this visa you need to submit an expression of interest and then be invited through [SkillSelect](https://skillselect.gov.au){:target="\_blank"} to apply. You will only receive an invitation through [SkillSelect](https://skillselect.gov.au){:target="\_blank"} on this visa program once you have been nominated by a State/Territory government.
 
