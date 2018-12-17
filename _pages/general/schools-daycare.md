@@ -7,9 +7,9 @@ description: Details about placing children in schools, daycare and childcare
 
 If you're relocating with children, you'll want to connect with someone who's recently settled their kids into a local school & daycare to help your decision-making process.
 
-# Child cares
+# Child care
 
-Child cares have really high rates, that's why most people tend to enroll their kids for a couple of days weekly rather than full time. In addition, due to the very high demand you may have to book your kid in a waiting list. It differs from one suburb to another, but that's pretty much how it works. It gets more trickier if both parents work full time, as they have fewer choices on the child cares with a full time availability.
+Child care centers have really high rates, that's why most people tend to enroll their kids for a couple of days a week rather than full time. In addition, due to the very high demand you may have to book your kid in a waiting list. It differs from one suburb to another, but that's pretty much how it works. It gets more trickier if both parents work full time, as they have fewer choices on the child care centers with a full time availability.
 
 ### Enrolling your kids
 1. To enroll your kids, first look for the child care centres around your area [Child care finder](https://www.childcarefinder.gov.au/)
