@@ -1,6 +1,6 @@
 ---
-title: Schools & Daycare
-description: Details about placing children in schools and daycare
+title: Schools, Daycare and Childcare
+description: Details about placing children in schools, daycare and childcare
 ---
 
 # Schools & Daycare
